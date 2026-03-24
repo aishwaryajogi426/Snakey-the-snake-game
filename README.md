@@ -1,14 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🐍 Snakey — The Princess Snake Game
 
-# Run and deploy your AI Studio app
+A fun and themed Snake Game built using Google AI Studio and 
+Gemini API through vibe coding techniques.
 
-This contains everything you need to run your app locally.
+## 🎮 About The Game
+Snakey is a princess-themed Snake Game where everything is in 
+pink except the snake, who stands out in ochre colour. 
+The game features three types of AI-generated non-lyrical 
+background music to enhance the gaming experience.
 
-View your app in AI Studio: https://ai.studio/apps/406c20da-2008-45c6-ad14-a2b4880777e2
+## 🛠️ Built With
+- Google AI Studio (Gemini API)
+- TypeScript
+- HTML & CSS
+- Vite
+- Node.js
 
-## Run Locally
+## ✨ Features
+- Princess themed pink UI
+- Ochre coloured snake
+- Real-time game logic and collision detection
+- Score tracking
+- 3 AI-generated background music tracks
+
+## 🚀 How To Run Locally
+1. Clone the repository
+2. Install dependencies: npm install
+3. Add your Gemini API key in .env.local
+4. Run the app: npm run dev
+
+## 🏆 Built During
+Google Gen AI Prototyping Clinic — A hands-on workshop 
+by Google for Developers focusing on building real 
+applications using Generative AI tools.
+
+## 👩‍💻 Developer
+Aishwarya Jogi
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: github.com/aishwaryajogi426
 
 **Prerequisites:**  Node.js
 
