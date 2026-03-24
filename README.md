@@ -36,7 +36,7 @@ applications using Generative AI tools.
 
 ## 👩‍💻 Developer
 Aishwarya Jogi
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/aishwarya4jogi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: github.com/aishwaryajogi426
 
 **Prerequisites:**  Node.js
